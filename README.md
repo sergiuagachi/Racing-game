@@ -1,6 +1,7 @@
 # Racing-game
 
-Jocul dispune de:
+Jocul dispune de următoarele
+
 	- mașina de culoare roșie cu roțile de culoare gri închis;
 	- șoseaua de culoare gri cu borduri albastre;
 		- este generată în init, nu pe parcursul avansului pe șosea;
