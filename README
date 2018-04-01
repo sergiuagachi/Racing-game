@@ -1,0 +1,21 @@
+*** TEMA2***
+
+Dupa rularea codului in ecran, vor aparea:
+	- masina de culoare rosie cu rotile de culoare gri inchis;
+	- soseaua de culoare gri cu borduri albastre;
+		- este generata in init, nu la rulare;
+	- obstacolele sunt piramide portocalii;
+		- 1 obstacol dinamic si restul statice;
+	- pamantul de culoare: - verde deschis ziua;
+						   - verde inchis noaptea;
+	- cerul este albastru deschis ziua si ajune la bleomarin noaptea;
+	
+In cod:
+	- am completat matricile de translatie, rotatie si scalare;
+	- am adaugat variabile necesare in Tema2.h;
+	- am creeat obiecte necesare pentru a realiza jocul;
+	- am realizat colorarea noapte zi a pamantului si cerului in vertex shader;
+	- la apasarea tastei Z se schimba perspectiva intre FP si TP;
+	- la apasarea tastei space se schimba intre solid si wireframe;
+	
+Implementarea este minimala conform, respectand toate cerintele obligatorii cu exceptia cea a detectiei de coliziuni si sistemului de depunctari;
