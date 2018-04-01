@@ -6,8 +6,9 @@ Jocul dispune de:
 		- este generată în init, nu pe parcursul avansului pe șosea;
 	- obstacolele sunt piramide portocalii;
 		- 1 obstacol dinamic și restul statice;
-	- pământul de culoare: - verde deschis ziua;
-			       - verde închis noaptea;
+	- pământul de culoare: 
+		- verde deschis ziua;
+		- verde închis noaptea;
 	- cerul: albastru deschis ziua și ajune la bleomarin noaptea;
 	
 - colorarea zi-noapte a pamantului și a cerului sunt realizate în vertex shader;
