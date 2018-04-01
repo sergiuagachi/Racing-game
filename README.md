@@ -1,16 +1,15 @@
 # Racing-game
 
-Jocul dispune de următoarele
-
-	- mașina de culoare roșie cu roțile de culoare gri închis;
-	- șoseaua de culoare gri cu borduri albastre;
-		- este generată în init, nu pe parcursul avansului pe șosea;
-	- obstacolele sunt piramide portocalii;
-		- 1 obstacol dinamic și restul statice;
-	- pământul de culoare: 
-		- verde deschis ziua;
-		- verde închis noaptea;
-	- cerul: albastru deschis ziua și ajune la bleomarin noaptea;
+Jocul dispune de următoarele:
+- mașina de culoare roșie cu roțile de culoare gri închis;
+- șoseaua de culoare gri cu borduri albastre;
+	- este generată în init, nu pe parcursul avansului pe șosea;
+- obstacolele sunt piramide portocalii;
+	- 1 obstacol dinamic și restul statice;
+- pământul de culoare: 
+	- verde deschis ziua;
+	- verde închis noaptea;
+- cerul: albastru deschis ziua și ajune la bleomarin noaptea;
 	
 - colorarea zi-noapte a pamantului și a cerului sunt realizate în vertex shader;
 - la apăsarea tastelor WASD mașina se va deplasa pe ecran;
