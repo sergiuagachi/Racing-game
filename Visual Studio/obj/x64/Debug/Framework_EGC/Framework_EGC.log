@@ -1,0 +1,29 @@
+﻿  CameraInput.cpp
+  SceneInput.cpp
+  SimpleScene.cpp
+  Engine.cpp
+  GPUBuffers.cpp
+  Mesh.cpp
+  Shader.cpp
+  Texture2D.cpp
+  TextureManager.cpp
+  InputController.cpp
+  WindowCallbacks.cpp
+  WindowObject.cpp
+  World.cpp
+  gl.cpp
+  Main.cpp
+  Tema2.cpp
+  Object3D.cpp
+..\Source\Teme\Tema2.cpp(61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\Source\Teme\Tema2.cpp(66): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\Source\Teme\Tema2.cpp(70): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\Source\Teme\Tema2.cpp(301): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\Source\Teme\Tema2.cpp(305): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+..\Source\Teme\Tema2.cpp(417): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Framework_EGC.vcxproj -> D:\Gunoaie\scoala\fac\anu3\sem1\EGC\tema2\Framework-EGC-master\Visual Studio\..\x64\Debug\Framework_EGC.exe
+  A subdirectory or file D:\Gunoaie\scoala\fac\anu3\sem1\EGC\tema2\Framework-EGC-master\Visual Studio\scripts\..\..\x64\Debug already exists.
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
