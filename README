@@ -13,4 +13,4 @@ Jocul dispune de:
 - la apăsarea tastei space se schimbă modul de vizualizare a obiectelor între solid si wire
 
 O mare parte din proiect este reprezentă de framework-ul pus la dispoziție în cadrul materiei EGC.
-Codul ce implementează mai exact jocul se află în fișierul Tema2.cpp din folderul sources.
+Codul ce implementează mai exact jocul se află în fișierele Tema2.cpp, VertexShaderl.glsl și FragmentShader.glsl din folderul sources.
