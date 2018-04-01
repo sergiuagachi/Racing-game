@@ -11,10 +11,9 @@ Jocul dispune de următoarele:
 	- verde închis noaptea;
 - cerul: albastru deschis ziua și ajune la bleomarin noaptea;
 	
-- colorarea zi-noapte a pamantului și a cerului sunt realizate în vertex shader;
 - la apăsarea tastelor WASD mașina se va deplasa pe ecran;
 - la apăsarea tastei Z se schimbă perspectiva între first-person și third-person;
-- la apăsarea tastei space se schimbă modul de vizualizare a obiectelor între solid si wire
+- la apăsarea tastei space se schimbă modul de vizualizare a obiectelor între solid si wire;
 
 - funcționalități neimplementate:
 	- coliziuni între obiecte;
